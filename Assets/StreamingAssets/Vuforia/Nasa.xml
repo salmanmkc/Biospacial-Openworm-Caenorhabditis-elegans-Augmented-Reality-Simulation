@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="combined" size="1.000000 0.732733" />
+    <ImageTarget name="radiationalone" size="1.000000 0.435969" />
+    <ImageTarget name="mgandradiation" size="1.000000 0.662669" />
+    <ImageTarget name="Radiation2" size="1.000000 0.558140" />
+    <ImageTarget name="Microgravity" size="1.000000 0.562500" />
+    <ImageTarget name="Earth" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
